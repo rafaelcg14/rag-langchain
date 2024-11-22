@@ -1,0 +1,54 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+env/
+venv/
+.venv/
+
+# VS Code configuration
+.vscode/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Local SQLite databases
+*.sqlite3
+*.db
+
+# System-specific files
+.DS_Store
+Thumbs.db
+
+# Compiled C extensions
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# pytest and test cache
+.pytest_cache/
+.tox/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+
+# Azure-related configuration
+azure_credentials.json
+
+# Transcription and temporary files
+*.wav
+*.mp3
+*.txt
+*.tmp
+
+# Uploaded/downloaded files
+downloads/
+uploads/
